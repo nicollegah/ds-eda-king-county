@@ -1,21 +1,17 @@
-# ds-project-template
-Template for creating ds simple projects 
+# First neuefische Project - Data Analysis
 
+This project is centered around a dataset of house transactions in King County, Washington. 
 
-## Requirements
+As a stakeholder, Erin Robinson wants to "Invest in poor neighbourhood, buying & selling, costs back + little profit, socially responsible"
 
-* pyenv
-* python==3.8.5
-## Setup
+The project contains several deliverables:
 
-For this purpose you use following commands:
+* A [presentation](Presentatin_Kings_county_NK.pdf) for Erin Robinson 
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
-```
+* A [Jupyter Notebook](notebooks/Workbook.ipynb) that takes an EDA-tour and tries to come up with a good strategy and area to invest in for Erin Robinson. 
 
-### Remarks
-Data or Models folder content should not be pushed to github.
+* In the scripts folder there are two python files, one for [training a linear model](scripts/train_model.py) and one to [make predictions](scripts/run_prediction.py) from that. 
+
+* A pre-trained linear-regression model from the SeaTec district (zipcode 98188)
+
+Have fun!
