@@ -6,7 +6,7 @@ As a stakeholder, Erin Robinson wants to "Invest in poor neighbourhood, buying &
 
 The project contains several deliverables:
 
-* A [presentation](Presentatin_Kings_county_NK.pdf) for Erin Robinson 
+* A [presentation](Presentation_Kings_County_NK.pdf) for Erin Robinson 
 
 * A [Jupyter Notebook](notebooks/Workbook.ipynb) that takes an EDA-tour and tries to come up with a good strategy and area to invest in for Erin Robinson. 
 
